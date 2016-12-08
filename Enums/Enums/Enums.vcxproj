@@ -110,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Enum.h" />
+    <ClInclude Include="ImportedEnum.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ImportedConstants.c" />
